@@ -4,7 +4,7 @@ import testing from "../../static/testing.jpg"
 export default function Home() {
   return (
     <main>
-      <h1 className="title">Measure page quality</h1>
+      <h1 className="title">Gatsby - Measure page quality</h1>
 
       <p className="description">
         Test your pages in a lab environment powered by PageSpeed Insights. Then
